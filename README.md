@@ -1,2 +1,2 @@
-# neuro---startup
-# neuro---startup
+# neuro startup
+
